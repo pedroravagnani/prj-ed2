@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1528456563 source:d:\projetofinal2018\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1528456652 d:\projetofinal2018\ribrary.h
+
+1528459156 source:d:\projetofinal2018\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1528456563 source:c:\users\aluno\desktop\m\projetofinal2018\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529074625 c:\users\aluno\desktop\m\projetofinal2018\ribrary.h
+
+1529074739 source:c:\users\aluno\desktop\m\projetofinal2018\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529642365 source:c:\users\aluno\desktop\projetofinal2018\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529643638 c:\users\aluno\desktop\projetofinal2018\ribrary.h
+
+1529642617 source:c:\users\aluno\desktop\projetofinal2018\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529638027 c:\users\aluno\desktop\projetofinal2018\proj.h
+
+1529637893 c:\users\aluno\desktop\projetofinal2018\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529643428 source:c:\users\aluno\desktop\projetofinal2018\avralv.c
+	<stdio.h>
+	<stdlib.h>
+	"arvALV.h"
+
+1529643434 c:\users\aluno\desktop\projetofinal2018\arvalv.h
+
+1529905307 source:c:\users\palanquin\documents\actually doing stuff\avralv.c
+	<stdio.h>
+	<stdlib.h>
+	"arvALV.h"
+	"Ribrary.h"
+
+1529812681 c:\users\palanquin\documents\actually doing stuff\arvalv.h
+
+1529907324 source:c:\users\palanquin\documents\actually doing stuff\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Ribrary.h"
+	"arvALV.h"
+
+1529701314 c:\users\palanquin\documents\actually doing stuff\ribrary.h
+
+1529701312 source:c:\users\palanquin\documents\actually doing stuff\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529909227 source:c:\users\palanquin\documents\ed2\avralv.c
+	<stdio.h>
+	<stdlib.h>
+	"arvALV.h"
+	"Ribrary.h"
+
+1529812681 c:\users\palanquin\documents\ed2\arvalv.h
+
+1529701314 c:\users\palanquin\documents\ed2\ribrary.h
+
+1529910571 source:c:\users\palanquin\documents\ed2\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Ribrary.h"
+	"arvALV.h"
+
+1529910628 source:c:\users\palanquin\documents\ed2\ribrary.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Ribrary.h"
+
+1529910544 source:c:\users\palanquin\documents\ed2\arvllrb.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<time.h>
+	<string.h>
+	"arvLLRB.h"
+	"Ribrary.h"
+
+1529909821 c:\users\palanquin\documents\ed2\arvllrb.h
+
